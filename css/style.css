@@ -26,8 +26,9 @@ body {
     justify-content: center;
 }
 
+
 .box.nested {
     height: 25px;
-    background-color: rgb(123, 234, 123);
-    border: 1px solid #006CFA;
+    background-color: #00e165;
+    border: 3px solid #006CFA;
 }
